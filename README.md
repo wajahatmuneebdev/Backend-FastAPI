@@ -27,14 +27,14 @@ This is an API for an E-commerce Admin Dashboard, designed to provide detailed i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-admin-api.git
-   cd e-commerce-admin-api
+   git clone https://github.com/wajahatmuneebdev/Backend-FastAPI.git
+   cd Backend-FastAPI
 
 2. Create a virtual environment (recommended):
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, use venv\Scripts\activate
+   source venv/bin/activate
 
 4. Install the dependencies:
 
